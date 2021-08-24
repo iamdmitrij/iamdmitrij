@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=iamdmitrij&countColor=%237B1E7A)
+
