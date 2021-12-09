@@ -1,5 +1,4 @@
 name: 🏆 Metrics
-
 on:
   push:
     branches: main
@@ -20,7 +19,6 @@ jobs:
           plugin_topics_limit: 0
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
       - uses: lowlighter/metrics@latest
         with:
           # ... other options
