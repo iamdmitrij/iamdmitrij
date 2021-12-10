@@ -21,11 +21,3 @@ jobs:
           plugin_topics_limit: 0
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
- 
-      - uses: lowlighter/metrics@latest
-        with:
-          # ... other options
-          plugin_introduction: yes
-          plugin_introduction_title: no # Hide section title
-          filename: github-metrics2.svg
-          token: ${{ secrets.METRICS_TOKEN }}
